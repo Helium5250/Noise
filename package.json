@@ -1,0 +1,24 @@
+{
+  "name": "noise",
+  "version": "1.0.0",
+  "description": "Assortment of visualized randomization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Helium5250/Noise.git"
+  },
+  "author": "Helium5250",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Helium5250/Noise/issues"
+  },
+  "homepage": "https://github.com/Helium5250/Noise#readme",
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}
