@@ -1,19 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+  <script src="./WorleyNoiseV2.js" async></script>
   <link rel="stylesheet" href="./style.css">
   <title>Document</title>
 </head>
+
 <body>
+
   <main>
     <canvas id="canvas">
-
     </canvas>
-    <script src="./WorleyNoiseV2.js"></script>
   </main>
+
+  <p><b>Red:</b><input type="range" min="0.0" max="1.00" value="0.5" step="0.01" id="r-slider"></p>
+  <p><b>Green:</b><input type="range" min="0.0" max="1.00" value="0.5" step="0.01" id="g-slider"></p>
+  <p><b>Blue:</b><input type="range" min="0.0" max="1.00" value="0.5" step="0.01" id="b-slider"></p><br>
+  <p><b>Brightness:</b><input type="range" min="0.0" max="1.00" value="0.5" step="0.01" id="brightness-slider"></p>
+
+
+  <button id="new-image" onclick="generate()">New Image</button>
 </body>
+
 </html>
