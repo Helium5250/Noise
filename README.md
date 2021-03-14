@@ -1,3 +1,3 @@
 # Noise
 
-[Live Preview](https://helium5250.github.io/Noise/)
+[Live Preview](https://helium5250.github.io/noise/)
