@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Helium5250/Noise.git"
+    "url": "git+https://github.com/codicate/noise.git"
   },
   "author": "Helium5250",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Helium5250/Noise/issues"
+    "url": "https://github.com/codicate/noise/issues"
   },
-  "homepage": "https://github.com/Helium5250/Noise#readme",
+  "homepage": "https://github.com/codicate/noise#readme",
   "devDependencies": {
     "eslint": "^7.21.0",
     "eslint-config-airbnb-base": "^14.2.1",
